@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><catalog><item><id>0</id><title><![CDATA[El Quijote de la Mancha]]></title></item>
+<item><id>1</id><title><![CDATA[El principito]]></title></item></catalog>
+
+<!-- This is an example test with different structure that original feed xml which will not be saved since 
+with current code only the structure of feed.xml xml can be saved-->
